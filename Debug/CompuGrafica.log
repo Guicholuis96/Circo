@@ -1,0 +1,4 @@
+﻿  Jerarquia.cpp
+c:\users\guich\source\repos\compugrafica\jerarquia.cpp(4590): warning C4554: '&': compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+c:\users\guich\source\repos\compugrafica\jerarquia.cpp(4598): warning C4554: '&': compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  CompuGrafica.vcxproj -> C:\Users\guich\source\repos\CompuGrafica\Debug\CompuGrafica.exe
